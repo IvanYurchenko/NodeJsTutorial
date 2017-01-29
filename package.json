@@ -1,0 +1,22 @@
+{
+  "name": "ivannodetutorial",
+  "version": "1.0.1",
+  "description": "Node.js tutorial from tutorialspoint.com",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanYurchenko/NodeJsTutorial.git"
+  },
+  "keywords": [],
+  "author": "Ivan Yurchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanYurchenko/NodeJsTutorial/issues"
+  },
+  "homepage": "https://github.com/IvanYurchenko/NodeJsTutorial#readme"
+}
