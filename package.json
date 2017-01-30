@@ -1,6 +1,6 @@
 {
   "name": "ivannodetutorial",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js tutorial from tutorialspoint.com",
   "main": "main.js",
   "dependencies": {},
